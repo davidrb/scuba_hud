@@ -10,9 +10,9 @@ SCUBA HUD SWOT Analysis
     - Mask mount
 
 ## Opportunities
+- Reduce task loading
 - Accessability
     - Deaf divers can see warnings
     - Divers without use of arms
 
 ## Threats
-
