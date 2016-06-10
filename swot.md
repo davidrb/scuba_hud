@@ -2,12 +2,14 @@ SCUBA HUD SWOT Analysis
 -----------------------
 
 ## Strengths
-- Diver has essential information in view at all times.
-- Diver can view information with both hands free.
+- Diver has essential information in view at all times
+- Diver can view information with both hands free
 
 ## Weaknesses
 - May be hard to mount
     - Mask mount
+- Expense
+    - Probably more expensive than low end computers
 
 ## Opportunities
 - Reduce task loading
