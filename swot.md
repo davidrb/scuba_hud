@@ -11,6 +11,7 @@ SCUBA HUD SWOT Analysis
 
 ## Opportunities
 - Reduce task loading
+    - New divers have less things to worry about
 - Accessability
     - Deaf divers can see warnings
     - Divers without use of arms
